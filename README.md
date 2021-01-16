@@ -1,4 +1,4 @@
-# flutter_application_1
+# Flutter-Quiz-App
 
 This is a basic Quiz App.
 ## About the App
